@@ -1,13 +1,13 @@
-# Bài tập thực hành môn Kiểm thử phần mềm
+# Bài tập thực hành Tuần 1
 
-## Thông tin sinh viên
-- Họ tên: Nguyễn Thu Trang
-- MSSV: BIT230404
-- Lớp: 23IT-SOFT4 
+## Mục tiêu
+- Trải nghiệm chất lượng giao diện phần mềm tại https://cantunsee.space/
+- Chụp ảnh kết quả cá nhân
+- Tạo báo cáo tuần 1
 
-## Mục tiêu repo
-- Lưu trữ tất cả bài tập thực hành từ tuần 1 đến tuần cuối.
-- Chia sẻ báo cáo, ảnh chụp kết quả trải nghiệm giao diện phần mềm, và các sản phẩm kiểm thử.
+## Cấu trúc
+- `screenshots/` : ảnh kết quả cá nhân
+- `reports/` : báo cáo chi tiết tuần 1
 
-## Cấu trúc branch 
-- Mỗi tuần sẽ là 1 branch
+## Kết quả
+- Xem ảnh trong `screenshots/`

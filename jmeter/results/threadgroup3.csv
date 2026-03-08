@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Python Article Request,20,875,561,1692,301.59,0.000%,1.97687,1206.43,0.38,624918.0
+Machine Learning Article,20,232,160,550,103.16,0.000%,2.14569,1453.62,0.39,693719.0
+TOTAL,40,553,160,1692,392.68,0.000%,3.88576,2501.91,0.73,659318.5
